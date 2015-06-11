@@ -3,3 +3,5 @@ This is a new file.
 Added by user b before syncing with github.
 
 However it does not conflict with gh's version since it is a new file
+
+userB>>and this is an edit by user_b!!
