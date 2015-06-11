@@ -1,5 +1,7 @@
 This is a new file.
 
+userA>>OK now for something fancy - conflicting updates - user_a added this!
+
 Added by user b before syncing with github.
 
 However it does not conflict with gh's version since it is a new file
